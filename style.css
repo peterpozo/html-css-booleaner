@@ -1,5 +1,9 @@
 body{
-    margin: 0px;
+
+    font-size: 20px;
+    margin:auto;
+    width: 1200px;
+    
 }
 
 .hero{
@@ -10,9 +14,51 @@ body{
 }
 
 .logo{
-    width: 450px;
-    margin-top: 50px;
+    width: 300px;
+    margin-top: 80px;
 }
+
+.titolo{
+    font-size: 50px;
+    margin: auto;
+}
+
+
+.tim{
+    margin-left: 5px;
+}
+
+.sott1{
+    color: gray;  
+    height: 90px;
+}
+
+.sott2{
+    margin-bottom: 0px;
+
+}
+.sott3{
+    margin-top: 1px;
+    font-size: 18px;
+    
+}
+
+.info{
+    height: 60px;
+
+}
+
+.info1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 13px;
+}
+
+.info2{
+    font-size: 13px;
+    margin-top: 0px;
+}
+
 
 .content-table{
     border-collapse: collapse;
@@ -38,6 +84,14 @@ body{
     border-bottom: 1px solid #dddddd;
 }
 
+.monitor{
+    margin-left: 6px;
+}
+
 .grafico{
     display:block;
     margin-top: 10px;
+    margin-left: 6px;
+}
+
+
